@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SplashScreen</string>
+    <string name="votre_nom">your name</string>
+</resources>
